@@ -6,8 +6,7 @@ iMile Logistics Tech Intern @ Global Supply Chain Co. (2024.09-2024.12)
    
 💻 ​Full Stack Developer specializing in distributed systems and high-performance computing    
 🌱 ​Currently learning: OS kernel optimization & SDN network architecture   
-📫 ​Reach me: leocham.cn@gmail.com | Portfolio     
-⚡ ​Fun fact: Built a private cloud cluster using discarded Raspberry Pi boards    
+📫 ​Reach me: leocham.cn@gmail.com | Portfolio    
 
 🚀 Featured Projects
 1. [Real-time Observability Platform](https://github.com/leochame/adam-monitor)
