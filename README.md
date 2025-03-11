@@ -15,7 +15,9 @@ Key Innovations:
 ✅ Reduced critical manuscript blockage rate by ​32% through event sourcing audit       
 
 ### 2. [Next-gen Community Platform (GitHub)](https://github.com/leochame/adam-forum-backend)   
+🌐 Federated Identity & Web3.0 Storage      
 Performance Milestones:   
-⚡ ​90% faster chunked uploads via async thread pooling   
-🔍 ​80% improvement in hot content queries with tiered storage   
-⏱️ ​75% faster scheduled publishing via Redis-based cold/hot separation    
+⚡ Hybrid storage with IPFS cold layer & Redis hot cache for data sovereignty   
+🔍 WebFinger-powered cross-instance authentication (@username@domain)   
+⏱️ Extended ActivityPub protocol with chunked uploads & async compression    
+💣 Achieves 90%↑ upload speed & 80%↑ query efficiency in decentralized networks   
