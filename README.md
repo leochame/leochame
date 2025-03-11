@@ -1,5 +1,8 @@
 Hi there 👋 I'm Leo Chame
-https://github-readme-stats.vercel.app/api?username=leochame&show_icons=true&theme=radical    
+
+🌐 Work Experience   
+iMile Logistics Tech Intern @ Global Supply Chain Co. (2024.09-2024.12)   
+    
    
 💻 ​Full Stack Developer specializing in distributed systems and high-performance computing    
 🌱 ​Currently learning: OS kernel optimization & SDN network architecture   
@@ -18,6 +21,3 @@ Performance Milestones:
 ⚡ ​90% faster chunked uploads via async thread pooling   
 🔍 ​80% improvement in hot content queries with tiered storage   
 ⏱️ ​75% faster scheduled publishing via Redis-based cold/hot separation    
-
-🌐 Work Experience
-Logistics Tech Intern @ Global Supply Chain Co. (2023-2024)
