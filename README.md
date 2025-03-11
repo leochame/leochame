@@ -5,7 +5,7 @@ Hi there 👋 I'm Leo Chame
 
    
 ## 🌐 Work Experience   
-iMile Logistics Tech Intern @ Global Supply Chain Co. (2024.09-2024.12)   
+Java Tech Intern @ iMile Global Supply Chain Co. (2024.09-2024.12)   
        
 ## 🚀 Featured Projects   
 ### 1. [Real-time Observability Platform](https://github.com/leochame/adam-monitor)   
