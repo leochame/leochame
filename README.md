@@ -17,7 +17,7 @@ Key Innovations:
 ### 2. [Next-gen Community Platform (GitHub)](https://github.com/leochame/adam-forum-backend)   
 🌐 Federated Identity & Web3.0 Storage      
 Performance Milestones:   
-⚡ Hybrid storage with IPFS cold layer & Redis hot cache for data sovereignty   
+⚡ Hybrid storage with MySQL cold layer & Redis hot cache for data sovereignty   
 🔍 WebFinger-powered cross-instance authentication (@username@domain)   
 ⏱️ Extended ActivityPub protocol with chunked uploads & async compression    
 💣 Achieves 90%↑ upload speed & 80%↑ query efficiency in decentralized networks   
