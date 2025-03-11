@@ -9,10 +9,10 @@ iMile Logistics Tech Intern @ Global Supply Chain Co. (2024.09-2024.12)
        
 ## 🚀 Featured Projects   
 ### 1. [Real-time Observability Platform](https://github.com/leochame/adam-monitor)   
-Key Innovations:   
-✅ Designed NTP synchronization system with ​**±15ms cross-DC accuracy**  using Kalman filtering   
-✅ Achieved ​10k+ TPS throughput with dynamic sharding & compressed batch transmission   
-✅ Reduced critical manuscript blockage rate by ​32% through event sourcing audit   
+Key Innovations:      
+✅ Designed NTP synchronization system with ​**±15ms cross-DC accuracy**  using Kalman filtering       
+✅ Achieved ​10k+ TPS throughput with dynamic sharding & compressed batch transmission      
+✅ Reduced critical manuscript blockage rate by ​32% through event sourcing audit       
 
 ### 2. [Next-gen Community Platform (GitHub)](https://github.com/leochame/adam-forum-backend)   
 Performance Milestones:   
