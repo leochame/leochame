@@ -1,13 +1,12 @@
 Hi there 👋 I'm Leo Chame
-
-🌐 Work Experience   
-iMile Logistics Tech Intern @ Global Supply Chain Co. (2024.09-2024.12)   
-    
-   
 💻 ​Full Stack Developer specializing in distributed systems and high-performance computing    
 🌱 ​Currently learning: OS kernel optimization & SDN network architecture   
 📫 ​Reach me: leocham.cn@gmail.com | Portfolio    
 
+   
+## 🌐 Work Experience   
+iMile Logistics Tech Intern @ Global Supply Chain Co. (2024.09-2024.12)   
+       
 ## 🚀 Featured Projects   
 ### 1. [Real-time Observability Platform](https://github.com/leochame/adam-monitor)   
 Key Innovations:   
