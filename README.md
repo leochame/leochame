@@ -19,24 +19,6 @@ I am a passionate software engineer bridge the gap between robust **backend syst
 * **iMile International Logistics** | *Backend Dev Intern* (2024.09 - 2025.12)
     * Contributed to the Business Data Service Platform.
     * Worked on high-concurrency data processing and service stability.
-
----
-
-### 🛠️ Tech Stack
-
-**Backend & Systems**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-* **Core:** JVM Internals (GC, Memory Model), JUC, TCP/IP, OS Kernel (mm_struct, System Calls).
-
-**AI Engineering**
-![LLM](https://img.shields.io/badge/LLM-GenAI-blueviolet)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
-* **Architecture:** ReAct, COT, DeepResearch, RAG.
-* **Focus:** Transformers principles, Attention mechanisms, Agentic Workflows.
-
 ---
 
 ### 🔭 Current Focus & Projects
@@ -47,18 +29,7 @@ I am a passionate software engineer bridge the gap between robust **backend syst
 
 ---
 
-### ✍️ Recent Articles
-
-* *Deep Dive into JVM Memory Model & GC Tuning*
-* *Understanding the Linux Kernel: From System Calls to `mm_struct`*
-* *Designing Robust Agents: Lessons from ChatBI Development*
-* *(Link to your blog/articles)*
-
----
-
 ### 📫 Connect with Me
 
 * 📧 Email: liulch.cn@gmail.com
 * 📝 Blog: https://leochame.github.io/
-
-![Github Stats](https://github-readme-stats.vercel.app/api?username=leochame&show_icons=true&theme=minimal)
