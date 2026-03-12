@@ -1,4 +1,4 @@
-**# Longchang Liu (leochame)
+# Longchang Liu (leochame)
 
 **Backend Engineer | AI Engineering Enthusiast**
 
@@ -37,4 +37,4 @@ I am a software engineer specializing in building scalable backend infrastructur
 
 * **Email:** liulch.cn@gmail.com
 * **Blog:** [leochame.github.io](https://leochame.github.io/)
-* **GitHub:** [github.com/leochame](https://github.com/leochame)**
+* **GitHub:** [github.com/leochame](https://github.com/leochame)
