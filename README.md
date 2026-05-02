@@ -1,4 +1,4 @@
-# Longchang Liu (leochame)
+# L.C.Liu (leochame)
 
 **Software Engineer | AI Engineering Enthusiast**
 
