@@ -11,9 +11,3 @@ I am a software engineer specializing in building scalable infrastructures and i
 Alibaba (Amap / AutoNavi)  Software Engineering Intern (AI Agents) | Sept 2025 – Apr 2026
 
 Tencent (Ads & Marketing) Software Engineering Intern (AI Agents) | Mar 2025 – Aug 2025
-
-### Contact & Links
-
-* **Email:** liulch.cn@gmail.com
-* **Blog:** [leochame.github.io](https://leochame.github.io/)
-* **GitHub:** [github.com/leochame](https://github.com/leochame)
